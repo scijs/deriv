@@ -24,6 +24,7 @@
   "homepage": "https://github.com/Planeshifter/node-deriv",
   "devDependencies": {
     "chai": "^1.10.0",
-    "chai-stats": "^0.3.0"
+    "chai-stats": "^0.3.0",
+    "mocha": "^2.0.1"
   }
 }
