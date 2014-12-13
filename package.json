@@ -1,0 +1,29 @@
+{
+  "name": "deriv",
+  "version": "1.0.0",
+  "description": "numerical derivatives of one-variable functions",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Planeshifter/node-deriv.git"
+  },
+  "keywords": [
+    "calculus",
+    "derivative",
+    "numerical-methods",
+    "math"
+  ],
+  "author": "Philipp Burckhardt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Planeshifter/node-deriv/issues"
+  },
+  "homepage": "https://github.com/Planeshifter/node-deriv",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-stats": "^0.3.0"
+  }
+}
