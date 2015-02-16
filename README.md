@@ -1,5 +1,5 @@
 [![NPM version](https://badge.fury.io/js/deriv.svg)](http://badge.fury.io/js/deriv)
-[![Build Status](https://travis-ci.org/Planeshifter/node-deriv.svg)](https://travis-ci.org/Planeshifter/node-deriv)
+[![Build Status](https://travis-ci.org/scijs/deriv)](https://travis-ci.org/scijs/deriv)
 
 deriv
 ==========
